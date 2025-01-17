@@ -7,9 +7,9 @@ We'll be releasing the code and more detailed soon.
 
 ## Result
 
-![S-feature from HuBERT model]("Figures/result_hubert.png")
+![S-feature from HuBERT model](Figures/result_hubert.png)
 
-![S-feature from WavLM model]("Figures/result_wavlm.png")
+![S-feature from WavLM model](Figures/result_wavlm.png)
 
 ## Citation
 
